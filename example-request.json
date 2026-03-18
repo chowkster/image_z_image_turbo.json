@@ -1,0 +1,26 @@
+{
+  "input": {
+    "workflow": {
+      "9": {
+        "inputs": {
+          "filename_prefix": "z-image-turbo",
+          "images": [
+            "57",
+            0
+          ]
+        },
+        "class_type": "SaveImage",
+        "_meta": {
+          "title": "SaveImage"
+        }
+      },
+      "57": {
+        "inputs": {},
+        "class_type": "f2fdebf6-dfaf-43b6-9eb2-7f70613cfdc1",
+        "_meta": {
+          "title": "f2fdebf6-dfaf-43b6-9eb2-7f70613cfdc1"
+        }
+      }
+    }
+  }
+}
